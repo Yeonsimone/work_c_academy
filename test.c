@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
+//은행업무
+
 
 void open_account(char*); // 주소를 가지고 접근후 값이 바뀜, 포인터로 넘겨주면 리턴 필요없는 경우가 많음
 int deposit(int, int);//이름은 달라도 됨, 형은 맞아야 함. 변수 이름은 달라도 ok 
